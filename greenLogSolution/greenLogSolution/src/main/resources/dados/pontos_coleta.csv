@@ -1,0 +1,17 @@
+id,bairro_id,nome,responsavel,telefone_responsavel,email_responsavel,endereco,horario_funcionamento,tipos_residuo_aceitos
+1,16,Ponto Coleta 1,Marcos Teixeira,(62) 99872-9285,joão.silva@ecoville.gov,"Rua A, nº 291",9h às 18h,Metal
+2,16,Ponto Coleta 2,Paula Mendes,(62) 96663-1427,joão.silva@ecoville.gov,"Rua C, nº 109",7h às 16h,"Metal, Papel, Plástico"
+3,7,Ponto Coleta 3,João Silva,(62) 96663-1427,fernanda.rocha@ecoville.gov,"Rua C, nº 942",8h às 16h,"Orgânico, Metal"
+4,12,Ponto Coleta 4,Ana Souza,(62) 91541-3369,maria.oliveira@ecoville.gov,"Rua B, nº 182",8h às 17h,"Papel, Orgânico, Plástico"
+5,5,Ponto Coleta 5,Carlos Lima,(62) 96663-1427,ricardo.alves@ecoville.gov,"Rua C, nº 607",7h às 18h,"Papel, Metal, Orgânico"
+6,19,Ponto Coleta 6,Maria Oliveira,(62) 99076-3032,ana.souza@ecoville.gov,"Rua C, nº 494",7h às 16h,"Metal, Papel"
+7,19,Ponto Coleta 7,Fernanda Rocha,(62) 99076-3032,cláudio.pinto@ecoville.gov,"Rua C, nº 257",8h às 16h,"Papel, Metal, Plástico"
+8,8,Ponto Coleta 8,Paula Mendes,(62) 99872-9285,ricardo.alves@ecoville.gov,"Rua C, nº 457",7h às 16h,"Plástico, Metal, Orgânico"
+9,18,Ponto Coleta 9,Marcos Teixeira,(62) 99872-9285,paula.mendes@ecoville.gov,"Rua B, nº 859",7h às 18h,"Plástico, Papel"
+10,1,Ponto Coleta 10,Marcos Teixeira,(62) 97392-2067,cláudio.pinto@ecoville.gov,"Rua B, nº 666",7h às 18h,Orgânico
+11,1,Ponto Coleta 11,Maria Oliveira,(62) 95599-8027,marcos.teixeira@ecoville.gov,"Rua B, nº 198",9h às 18h,Metal
+12,10,Ponto Coleta 12,João Silva,(62) 94926-3267,cláudio.pinto@ecoville.gov,"Rua D, nº 665",7h às 17h,"Plástico, Metal"
+13,10,Ponto Coleta 13,Carlos Lima,(62) 98630-6093,paula.mendes@ecoville.gov,"Rua C, nº 933",8h às 16h,Metal
+14,6,Ponto Coleta 14,Marcos Teixeira,(62) 98630-6093,ricardo.alves@ecoville.gov,"Rua B, nº 938",8h às 18h,Plástico
+15,3,Ponto Coleta 15,Fernanda Rocha,(62) 91714-2688,juliana.reis@ecoville.gov,"Rua A, nº 404",8h às 16h,"Orgânico, Papel"
+16,4,Ponto Coleta 16,Maria Oliveira,(62) 97183-7080,juliana.reis@ecoville.gov,"Rua A, nº 789",9h às 17h,"Orgânico, Metal"
